@@ -13,7 +13,7 @@ Hardware requirements:
 • Bluetooth speaker
 • Aanalog-to-Digital Converter MCP3008
 
-software requirements:
+System software requirements:
 • VNC viewer
 • Raspbian OS
 
